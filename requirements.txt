@@ -1,0 +1,8 @@
+blockcypher
+bitcoinlib
+requests[socks]
+beautifulsoup4
+lxml
+customtkinter
+pandas
+openpyxl
