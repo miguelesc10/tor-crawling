@@ -422,7 +422,7 @@ class VentanaCrawler(ctk.CTkFrame):
     * ARGS_OUT:
         - N/A
     '''
-    def restaurar_ventana_crawler(self):l
+    def restaurar_ventana_crawler(self):
         if self.ventana_progreso:
             # Cierre de la ventana de progreso
             self.ventana_progreso.destroy()
